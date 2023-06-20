@@ -15,7 +15,7 @@ This section showcases my data science and machine learning projects, demonstrat
 
 ### Exploratory Data Analysis of Loan Applicants: Insights into Income, Gender, and More (Mar - Apr 2023)
 
-### Predicting Food Delivery Times: A Comparative Analysis of Machine Learning Regression and Deep Learning Methods (Sep - Dec 2022)
+### Food Delivery Time Prediction: ML Regression vs. Deep Learning (Sep - Dec 2022)
 
 ### Exploring NFL Injury Data: Analyzing Injury Risks by Position and Over Time (Jan - Mar 2022)
 
