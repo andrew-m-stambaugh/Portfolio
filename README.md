@@ -7,4 +7,15 @@ This section showcases my data science and machine learning projects, demonstrat
 
 ### Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation
 
+### Sentiment Analysis of Amazon Toy Reviews: Classifying Quality using NLP
+
+###
+
 # Other Coding Projects
+
+### Rectangular Rumble: Single Player Fighting Game
+
+### NBA Player Image Classification: Supporting Functions
+
+### PDF to SQL: Automating Criminal Record Parsing
+
