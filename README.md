@@ -11,20 +11,20 @@ This section showcases my data science and machine learning projects, demonstrat
 
 ### Querying Similar Images: Milvus and ResNet18 Embeddings (May 2023)
 
-### Exploring NYC Taxi Routes: Clustering and Trip Duration Prediction with PySpark (Apr 2023 - May 2023)
+### Exploring NYC Taxi Routes: Clustering and Trip Duration Prediction with PySpark (Apr - May 2023)
 
-### Exploratory Data Analysis of Loan Applicants: Insights into Income, Gender, and More (Mar 2023 - Apr 2023)
+### Exploratory Data Analysis of Loan Applicants: Insights into Income, Gender, and More (Mar - Apr 2023)
 
-### Predicting Food Delivery Times: A Comparative Analysis of Machine Learning Regression and Deep Learning Methods (Sep 2022 - Dec 2022)
+### Predicting Food Delivery Times: A Comparative Analysis of Machine Learning Regression and Deep Learning Methods (Sep - Dec 2022)
 
-### Exploring NFL Injury Data: Analyzing Injury Risks by Position and Over Time (Jan 2022 - Mar 2022)
+### Exploring NFL Injury Data: Analyzing Injury Risks by Position and Over Time (Jan - Mar 2022)
 
 # Other Coding Projects
 
-### Rectangular Rumble: Single Player Fighting Game (Nov 2022 - Dec 2022)
+### Rectangular Rumble: Single Player Fighting Game (Nov - Dec 2022)
 
 ### PDF to SQL: Automating Criminal Record Parsing (Mar 2022)
 
-### Building the Mechanics of Minesweeper: Internal Logic Implementation (Jan 2022 - Feb 2022)
+### Building the Mechanics of Minesweeper: Internal Logic Implementation (Jan - Feb 2022)
 
-### NBA Player Image Classification: Supporting Functions (Nov 2019 - Dec 2019)
+### NBA Player Image Classification: Supporting Functions (Nov - Dec 2019)
