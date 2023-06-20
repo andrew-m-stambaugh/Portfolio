@@ -2,6 +2,8 @@ Welcome to my GitHub portfolio! This repository is a compilation of my coding pr
 
 Each project title will contain a link to the public repository.
 
-## Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation
+## Data Science and Machine Learning Projects
+
+# Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation
 
 ## 
