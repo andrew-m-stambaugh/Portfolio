@@ -4,6 +4,6 @@ Each project title will contain a link to the public repository.
 
 ## Data Science and Machine Learning Projects
 
-# Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation
+### Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation
 
-## 
+## Other Coding Projects
