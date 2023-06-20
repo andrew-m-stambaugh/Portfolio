@@ -8,14 +8,24 @@ This section showcases my data science and machine learning projects, demonstrat
 ### Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation
 
 ### Sentiment Analysis of Amazon Toy Reviews: Classifying Quality using NLP
+#### Mar 2023 - June 2023
 
-###
+### Querying Similar Images: Milvus and ResNet18 Embeddings
+
+### Exploring NYC Taxi Routes: Clustering and Trip Duration Prediction with PySpark
+
+### Exploratory Data Analysis of Loan Applicants: Insights into Income, Gender, and More
+
+### Predicting Food Delivery Times: A Comparative Analysis of Machine Learning Regression and Deep Learning Methods
+
+### Exploring NFL Injury Data: Analyzing Injury Risks by Position and Over Time
 
 # Other Coding Projects
 
 ### Rectangular Rumble: Single Player Fighting Game
 
-### NBA Player Image Classification: Supporting Functions
-
 ### PDF to SQL: Automating Criminal Record Parsing
 
+### Building the Mechanics of Minesweeper: Internal Logic Implementation
+
+### NBA Player Image Classification: Supporting Functions
