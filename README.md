@@ -5,7 +5,7 @@ Each project title will contain a link to the public repository.
 # Data Science and Machine Learning Projects
 This section showcases my data science and machine learning projects, demonstrating my expertise in advanced analytics techniques for insights and predictions. Explore diverse datasets, predictive modeling, and exploratory data analysis as we unlock the power of data science.
 
-### Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation
+### Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation | March 2023 - June 2023
 
 ### Sentiment Analysis of Amazon Toy Reviews: Classifying Quality using NLP (March 2023 - June 2023)
 
