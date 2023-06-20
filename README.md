@@ -7,8 +7,7 @@ This section showcases my data science and machine learning projects, demonstrat
 
 ### Heart Disease Prediction: EDA, Machine Learning Models, and AWS Implementation
 
-### Sentiment Analysis of Amazon Toy Reviews: Classifying Quality using NLP
-#### Mar 2023 - June 2023
+### Sentiment Analysis of Amazon Toy Reviews: Classifying Quality using NLP (March 2023 - June 2023)
 
 ### Querying Similar Images: Milvus and ResNet18 Embeddings
 
