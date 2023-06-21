@@ -17,6 +17,8 @@ This section showcases my data science and machine learning projects, demonstrat
 
 ### Food Delivery Time Prediction: ML Regression vs. Deep Learning (Sep - Dec 2022)
 
+### Clustering for Material Science: K-means Clustering for Steel Categorization
+
 ### Exploring NFL Injury Data: Analyzing Injury Risks by Position and Over Time (Jan - Mar 2022)
 
 # Other Coding Projects
