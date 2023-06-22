@@ -9,7 +9,7 @@ This section showcases my data science and machine learning projects, demonstrat
 
 ### Sentiment Analysis of Amazon Toy Reviews: Classifying Quality using NLP (Mar - Jun 2023)
 
-### Querying Similar Images: Milvus and ResNet18 Embeddings (May 2023)
+### Similar Image Querying: Milvus and ResNet18 Embeddings (May 2023)
 
 ### Exploring NYC Taxi Routes: Clustering and Trip Duration Prediction with PySpark (Apr - May 2023)
 
